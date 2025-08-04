@@ -1,6 +1,6 @@
 # [Curso Pytorch](https://www.udemy.com/course/pytorch-for-deep-learning/)
 
-> ### [video](https://youtu.be/V_xro1bcAuA)
+> ### [Video](https://youtu.be/V_xro1bcAuA)
 >
 > ### [Drive](https://colab.research.google.com/drive/1F9hccS1ftAKSNGvpOxHAk26lXtoxa4bC#scrollTo=MqS78U39-8dy)
 
